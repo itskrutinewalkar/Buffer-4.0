@@ -1,4 +1,21 @@
-# Buffer-4.0
+# Team Achievers
+~ A group project by Kruti Newalkar, Srushti Kage, Devanshi Nikam and 
+Tanushree Kadus.
+
+~ Problem Statement : To develop a Hotel Management System.
+
+~ Welcome To Hotel Delight!
+
+~ Our project is based on the theme of Digital Society. We have used Linked
+  List, Strings and OOP concepts to develop a framework which allows user
+  to book, vacate, update details and display details of the customers occupying the rooms!
+
+~ To make the framework more interactive we have used colour coding in  
+  our project.
+
+Link to our video and reports: https://drive.google.com/drive/folders/1S_a1s_bvO1ZC4J07z2nb-cnCn4Adildi?usp=share_link
+
+Buffer-4.0
 Buffer is a Data Structures and Algorithms Project series, in which students can participate as mentees in teams of 3-4 people. 
 This year the themes on which students can create a project are-
 
